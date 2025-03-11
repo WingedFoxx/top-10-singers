@@ -5,7 +5,7 @@ categories: artists
 
 # SZA
 
-![SZA Photo]({site.baseurl}/assets/images/sza.jpg)
+![SZA Photo](/top-10-singers/assets/images/sza.jpg)
 
 ## About the artist
 Solána Imani Rowe (born November 8, 1989), known professionally as SZA (/ˈsɪzə/ ⓘ SIZ-ə), is an American singer-songwriter. Known for her diaristic lyrics and alternative R&B sound incorporating multiple genres, she is a significant figure in influencing contemporary R&B music.

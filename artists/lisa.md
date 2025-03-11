@@ -5,7 +5,7 @@ categories: artists
 
 # LISA
 
-![LISA Photo]({site.baseurl}/assets/images/lisa.jpg)
+![LISA Photo](/top-10-singers/assets/images/lisa.jpg)
 
 ## About the artist
 Biography not found.

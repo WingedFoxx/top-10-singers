@@ -5,7 +5,7 @@ categories: artists
 
 # Drake
 
-![Drake Photo]({site.baseurl}/assets/images/drake.jpg)
+![Drake Photo](/top-10-singers/assets/images/drake.jpg)
 
 ## About the artist
 Biography not found.
