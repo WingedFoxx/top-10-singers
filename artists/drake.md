@@ -10,4 +10,4 @@ categories: artists
 ## About the artist
 Biography not found.
 
-## Most Popular Songs: [Click here](/https://www.thethings.com/drake-most-popular-songs/)
+## Most Popular Songs: [Click here](https://www.thethings.com/drake-most-popular-songs/)
